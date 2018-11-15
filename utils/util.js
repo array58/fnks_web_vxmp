@@ -10,7 +10,8 @@ const formatTime = date => {
 }
 
 const formatNumber = n => {
-  n = n.toString()
+  n = n.toString();
+  console.log('test mother fucker')
   return n[1] ? n : '0' + n
 }
 

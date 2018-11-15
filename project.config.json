@@ -13,7 +13,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.4.0",
 	"appid": "wxed8d6246bb7215c8",
-	"projectname": "%E8%B4%B9%E7%BA%B3%E5%85%8B%E6%96%AF%E5%AE%98%E7%BD%91%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91",
+	"projectname": "fnks_vxmp",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
